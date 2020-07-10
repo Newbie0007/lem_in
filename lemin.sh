@@ -1,0 +1,1 @@
+gcc -o lem_in ./src/*.c ./libft/*.c 
